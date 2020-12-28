@@ -1,2 +1,2 @@
-# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
-*.rb linguist-language=Java
+# A `.gitattributes` file which reclassifies `.sql` files as SQL:
+*.sql linguist-language=SQL
