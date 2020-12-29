@@ -1,3 +1,3 @@
 # A `.gitattributes` file which reclassifies `.sql` files as SQL:
 *.sql linguist-detectable
-*.sql linguist-language=Java
+*.sql linguist-language=SQL
