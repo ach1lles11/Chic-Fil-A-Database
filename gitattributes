@@ -1,2 +1,2 @@
 # A `.gitattributes` file which reclassifies `.sql` files as SQL:
-*.sql linguist-language=SQL
+*.sql linguist-language=Java
