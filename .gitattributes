@@ -1,4 +1,4 @@
 # A `.gitattributes` file which reclassifies `.sql` files as SQL:
 *.sql linguist-detectable
 *.sql linguist-language=SQL
-*.sql linguist-color="#0000ff"
+*SQL linguist-color='#0000ff'
