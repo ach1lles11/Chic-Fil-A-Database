@@ -11,10 +11,11 @@ The Chic-Fil-A One App was an app that was launched in ---- with the aim to rewa
 - Name: The name of each item in the first column in the database. This is the name of the individual menu item as listed on the Chic-Fil-A One App.
 - Meal: The part of the meal which the individual items are a part of. The categories are Beverage, Breakfast, Side, Entrée, Treat, Salad.
 - Points: The point value required to redeem the voucher. 
-- Price w/o Tax: 
-- Price w/ Tax:
+- Price w/o Tax: This is the price listed on the Chic-Fil-A menu. This is the price before local sales tax is added.
+- Price w/ Tax: This the price of the menu item with tax included in the price calculation. The tax rate for this particular calculation is 7.500%, which is the sales tax in Chapel Hill, North Carolina
+- Price per Point: This is the value you gain per point. This is calculated by taking the price with tax, dividing it by the points and multiplying by 100. The result is price per point, with the price in cents. 
 
 
 # Excel Spreadsheet
 
-Like below is to the Excel Spreadsheet created to 
+Link below is to the Excel Spreadsheet created to model the data
