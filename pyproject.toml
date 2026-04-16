@@ -1,0 +1,19 @@
+[project]
+name = "chic-fil-a-database"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Nicholas Georgiou",email = "42646588+ach1lles11@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter-book (>=2.1.4,<3.0.0)",
+    "ipykernel (>=7.2.0,<8.0.0)",
+    "ghp-import (>=2.1.0,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
