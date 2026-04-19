@@ -15,6 +15,7 @@ project:
     
 site:
   template: book-theme
+  logo_text: Chic-fil-a Database
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
